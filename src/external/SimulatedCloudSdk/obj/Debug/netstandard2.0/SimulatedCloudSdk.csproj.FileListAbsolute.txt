@@ -1,0 +1,9 @@
+/Volumes/BOOTCAMP/estudos/integracao/codigos/src/external/SimulatedCloudSdk/obj/Debug/netstandard2.0/SimulatedCloudSdk.csprojAssemblyReference.cache
+/Volumes/BOOTCAMP/estudos/integracao/codigos/src/external/SimulatedCloudSdk/obj/Debug/netstandard2.0/SimulatedCloudSdk.csproj.CoreCompileInputs.cache
+/Volumes/BOOTCAMP/estudos/integracao/codigos/src/external/SimulatedCloudSdk/obj/Debug/netstandard2.0/SimulatedCloudSdk.AssemblyInfoInputs.cache
+/Volumes/BOOTCAMP/estudos/integracao/codigos/src/external/SimulatedCloudSdk/obj/Debug/netstandard2.0/SimulatedCloudSdk.AssemblyInfo.cs
+/Volumes/BOOTCAMP/estudos/integracao/codigos/src/external/SimulatedCloudSdk/bin/Debug/netstandard2.0/SimulatedCloudSdk.deps.json
+/Volumes/BOOTCAMP/estudos/integracao/codigos/src/external/SimulatedCloudSdk/bin/Debug/netstandard2.0/SimulatedCloudSdk.dll
+/Volumes/BOOTCAMP/estudos/integracao/codigos/src/external/SimulatedCloudSdk/bin/Debug/netstandard2.0/SimulatedCloudSdk.pdb
+/Volumes/BOOTCAMP/estudos/integracao/codigos/src/external/SimulatedCloudSdk/obj/Debug/netstandard2.0/SimulatedCloudSdk.dll
+/Volumes/BOOTCAMP/estudos/integracao/codigos/src/external/SimulatedCloudSdk/obj/Debug/netstandard2.0/SimulatedCloudSdk.pdb

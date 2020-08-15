@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BEG23rLWJ6D/wjicGNFPAMSR/2H9g64/LEs1kIX/McSUudz8SyPvex5GgQ2fV5DRkDfi7O3mRTDA5zxyqsOyhA==",
+  "success": true,
+  "projectFilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Merchandise.Api/TennisBookings.Merchandise.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/muriloeduardo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.3/microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

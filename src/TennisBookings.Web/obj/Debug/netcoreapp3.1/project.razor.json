@@ -1,0 +1,182 @@
+{
+  "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/TennisBookings.Web.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": null,
+  "RootNamespace": "TennisBookings.Web",
+  "Documents": [
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Areas/Admin/Views/_ViewStart.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Areas/Admin/Views/Shared/.__Layout.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Shared\\.__Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Areas/Admin/Views/.__ViewImports.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\.__ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Areas/Admin/Views/Staff/AddStaffMember.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Staff\\AddStaffMember.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Areas/Admin/Views/Courts/UpcomingMaintenance.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Courts\\UpcomingMaintenance.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Areas/Admin/Views/Staff/._AddStaffMember.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Staff\\._AddStaffMember.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Areas/Admin/Views/Courts/._WeeklyBookings.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Courts\\._WeeklyBookings.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Pages/Shared/_LoginPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Areas/Admin/Views/Shared/.__ValidationScriptsPartial.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Shared\\.__ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Areas/Admin/Views/Courts/CancelBooking.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Courts\\CancelBooking.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Pages/Bookings.cshtml",
+      "TargetPath": "Pages\\Bookings.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Pages/Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Pages/Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Pages/Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Pages/Contact.cshtml",
+      "TargetPath": "Pages\\Contact.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Pages/EnquirySent.cshtml",
+      "TargetPath": "Pages\\EnquirySent.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Areas/Admin/Views/Home/Index.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Areas/Admin/Views/Courts/WeeklyBookings.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Courts\\WeeklyBookings.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Pages/Shared/_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Pages/FindAvailableCourts.cshtml",
+      "TargetPath": "Pages\\FindAvailableCourts.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Pages/Enquiry.cshtml",
+      "TargetPath": "Pages\\Enquiry.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Areas/Admin/Views/_ViewImports.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Areas/Admin/Views/Courts/._CancelBooking.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Courts\\._CancelBooking.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Pages/_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Pages/_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Areas/Admin/Views/Courts/._UpcomingMaintenance.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Courts\\._UpcomingMaintenance.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Areas/Admin/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Pages/About.cshtml",
+      "TargetPath": "Pages\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Areas/Admin/Views/Home/._Index.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Home\\._Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Areas/Admin/Views/.__ViewStart.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\.__ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/TennisBookings.Web/Pages/BookCourt.cshtml",
+      "TargetPath": "Pages\\BookCourt.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}

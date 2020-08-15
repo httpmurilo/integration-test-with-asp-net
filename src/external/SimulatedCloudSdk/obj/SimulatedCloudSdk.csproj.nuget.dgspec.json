@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/external/SimulatedCloudSdk/SimulatedCloudSdk.csproj": {}
+  },
+  "projects": {
+    "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/external/SimulatedCloudSdk/SimulatedCloudSdk.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/external/SimulatedCloudSdk/SimulatedCloudSdk.csproj",
+        "projectName": "SimulatedCloudSdk",
+        "projectPath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/external/SimulatedCloudSdk/SimulatedCloudSdk.csproj",
+        "packagesPath": "/Users/muriloeduardo/.nuget/packages/",
+        "outputPath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/src/external/SimulatedCloudSdk/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/muriloeduardo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
