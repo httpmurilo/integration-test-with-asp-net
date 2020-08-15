@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fzbya4jOUUJPAaxKRWrm9ZYmxLs0tuWZltmAWIJRtEnqS0iknpC/0qTf3lmKJLu48tZ7ht5EczC4ZEWjU7NKUA==",
+  "dgSpecHash": "SAUZJTrz5ne99+ZKxsrGhdqtvk0cbiRpIdIcmJy965L+Gm5mwxVRDnmFk3acv12iiD9qqY40ZDEIw1pZL49geQ==",
   "success": true,
   "projectFilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/test/TennisBookings.Api.IntegrationTests/TennisBookings.Api.IntegrationTests.csproj",
   "expectedPackageFiles": [
@@ -18,7 +18,7 @@
     "/Users/muriloeduardo/.nuget/packages/microsoft.extensions.configuration.json/3.1.2/microsoft.extensions.configuration.json.3.1.2.nupkg.sha512",
     "/Users/muriloeduardo/.nuget/packages/microsoft.extensions.configuration.usersecrets/3.1.2/microsoft.extensions.configuration.usersecrets.3.1.2.nupkg.sha512",
     "/Users/muriloeduardo/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.2/microsoft.extensions.dependencyinjection.3.1.2.nupkg.sha512",
-    "/Users/muriloeduardo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.2/microsoft.extensions.dependencyinjection.abstractions.3.1.2.nupkg.sha512",
+    "/Users/muriloeduardo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.3/microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
     "/Users/muriloeduardo/.nuget/packages/microsoft.extensions.dependencymodel/3.1.2/microsoft.extensions.dependencymodel.3.1.2.nupkg.sha512",
     "/Users/muriloeduardo/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.2/microsoft.extensions.fileproviders.abstractions.3.1.2.nupkg.sha512",
     "/Users/muriloeduardo/.nuget/packages/microsoft.extensions.fileproviders.physical/3.1.2/microsoft.extensions.fileproviders.physical.3.1.2.nupkg.sha512",
