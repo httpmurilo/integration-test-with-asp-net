@@ -27,30 +27,6 @@ namespace TennisBookings.Api.IntegrationTests.Controllers
             _factory = factory;
         }
 
-        [Fact]
-        public async Task GetStockTotal_ReturnsSuccessStatusCode()
-        {
-            var response = await _client.GetAsync("");
-
-            response.EnsureSuccessStatusCode();
-
-        }
-
-        [Fact]
-        public async Task GetStockTotal_ReturnsExpectedJsonContentString()
-        {
-            var response = await _client.GetStringAsync("");
-
-            Assert.Equal("{\"stockItemTotal\":100}", response);
-        }
-
-        [Fact]
-        public async Task GetStockTotal_ReturnsExpectedJsonContentType()
-        {
-            var response = await _client.GetAsync("");
-
-            Assert.Equal("application/json", response.Content.Headers.ContentType.MediaType);
-        }
 
         [Fact]
         public async Task GetStockTotal_ReturnsExpectedJson()

@@ -12,6 +12,7 @@ namespace TennisBookings.Api.IntegrationTests.Fakes
         private IReadOnlyCollection<ProductDto> _customDefaultProducts;
 
         public List<ProductDto> Products { get; set; }
+        public bool ShouldThrow { get; set; }
 
         public FakeCloudDatabase(IReadOnlyCollection<ProductDto> products = null)
         {
