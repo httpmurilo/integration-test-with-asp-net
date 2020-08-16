@@ -1,0 +1,4 @@
+/Volumes/BOOTCAMP/estudos/integracao/codigos/test/TennisBookings.Web.Tests.IntegrationTests/obj/Debug/netcoreapp3.1/TennisBookings.Web.Tests.IntegrationTests.csprojAssemblyReference.cache
+/Volumes/BOOTCAMP/estudos/integracao/codigos/test/TennisBookings.Web.Tests.IntegrationTests/obj/Debug/netcoreapp3.1/TennisBookings.Web.Tests.IntegrationTests.csproj.CoreCompileInputs.cache
+/Volumes/BOOTCAMP/estudos/integracao/codigos/test/TennisBookings.Web.Tests.IntegrationTests/obj/Debug/netcoreapp3.1/TennisBookings.Web.Tests.IntegrationTests.AssemblyInfoInputs.cache
+/Volumes/BOOTCAMP/estudos/integracao/codigos/test/TennisBookings.Web.Tests.IntegrationTests/obj/Debug/netcoreapp3.1/TennisBookings.Web.Tests.IntegrationTests.AssemblyInfo.cs
