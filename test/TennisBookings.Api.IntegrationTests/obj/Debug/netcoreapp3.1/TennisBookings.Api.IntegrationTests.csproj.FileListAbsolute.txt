@@ -136,3 +136,4 @@
 /Volumes/BOOTCAMP/estudos/integracao/codigos/test/TennisBookings.Api.IntegrationTests/obj/Debug/netcoreapp3.1/TennisBookings.Api.IntegrationTests.dll
 /Volumes/BOOTCAMP/estudos/integracao/codigos/test/TennisBookings.Api.IntegrationTests/obj/Debug/netcoreapp3.1/TennisBookings.Api.IntegrationTests.pdb
 /Volumes/BOOTCAMP/estudos/integracao/codigos/test/TennisBookings.Api.IntegrationTests/obj/Debug/netcoreapp3.1/TennisBookings.Api.IntegrationTests.genruntimeconfig.cache
+/Volumes/BOOTCAMP/estudos/integracao/codigos/test/TennisBookings.Api.IntegrationTests/bin/Debug/netcoreapp3.1/System.Net.Http.Json.dll

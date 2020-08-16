@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SAUZJTrz5ne99+ZKxsrGhdqtvk0cbiRpIdIcmJy965L+Gm5mwxVRDnmFk3acv12iiD9qqY40ZDEIw1pZL49geQ==",
+  "dgSpecHash": "h55hQdwLr/uhiIrlCmFJtqQBLjiU9khIy9PIkyr84UsF0a695Rku/XnH7kny6YX09MPNJqkX5A98Vrj+71KC4g==",
   "success": true,
   "projectFilePath": "/Volumes/BOOTCAMP/estudos/integracao/codigos/test/TennisBookings.Api.IntegrationTests/TennisBookings.Api.IntegrationTests.csproj",
   "expectedPackageFiles": [
@@ -55,6 +55,7 @@
     "/Users/muriloeduardo/.nuget/packages/system.io.pipelines/4.7.0/system.io.pipelines.4.7.0.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.linq/4.1.0/system.linq.4.1.0.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.linq.expressions/4.1.0/system.linq.expressions.4.1.0.nupkg.sha512",
+    "/Users/muriloeduardo/.nuget/packages/system.net.http.json/3.2.0/system.net.http.json.3.2.0.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.objectmodel/4.0.12/system.objectmodel.4.0.12.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.reflection/4.1.0/system.reflection.4.1.0.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.reflection.emit/4.0.1/system.reflection.emit.4.0.1.nupkg.sha512",
@@ -89,5 +90,16 @@
     "/Users/muriloeduardo/.nuget/packages/xunit.extensibility.execution/2.4.0/xunit.extensibility.execution.2.4.0.nupkg.sha512",
     "/Users/muriloeduardo/.nuget/packages/xunit.runner.visualstudio/2.4.0/xunit.runner.visualstudio.2.4.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "TennisBookings.Api.IntegrationTests depende de System.Net.Http.Json (>= 3.1.2), mas System.Net.Http.Json 3.1.2 não foi encontrado. A melhor correspondência aproximada de System.Net.Http.Json 3.2.0 foi resolvida.",
+      "libraryId": "System.Net.Http.Json",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }
